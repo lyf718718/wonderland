@@ -1,0 +1,63 @@
+
+
+# Literature Review Note
+
+## Persuasion knowledge Model Review
+
+#### Theoretical development
+
+[@campbell2000]
+
+RQ & Concept:
+
+When will the consumer use the persuasion knowledge?
+
+Persuasion knowledge refers to consumers' theories about persuasion and includes beliefs about marketers' motives, strategies, and tactics; What kind of persuasion tactics are effectiveness and appropriateness; psychological mediators of tactic effectiveness (i.e., if the influencer is trying to gain trust, to invoke sympathy); and ways of coping with persuasion attempts.
+
+Theory:
+
+Persuasion knowledge is an effortful elaboration. Thus, the consumer needs both the cognitive bandwidth to think and the accessibility to the cue that the agent has the ulterior motive.
+
+Finding:
+
+When an ulterior persuasion motive is highly accessible, both cognitively busy targets and unbusy observers use persuasion knowledge to evaluate the salesperson. When an ulterior motive is less accessible, cognitively busy targets are less likely to use persuasion knowledge, evaluating the salesperson as more sincere than are cognitively unbusy observers.
+
+Contribution:
+
+a\) The first paper empirically investigates when the persuasion knowledge will be used. b) The outcome is the perception of the salespeople (i.e., sincerity). c) minor contribution: the method to manipulate accessibility and cognitive busyness (e..g, priming, target observer status)
+
+Critique:
+
+a\) The observer doesn't care about the purchase. Thus, s/he focuses too much on 'over-interpreting the salespeople's persuasion attempt. For example, when the salespeople have absolutely no intention to persuade (e.g., after the purchase is made), the observer still suspects the salespeople much more than the actor. However, the observer's use of persuasion knowledge may be of little interest in strategy research. I am not sure about the usefulness of the finding to the manager.
+
+#### Marketing strategy application
+
+[@thompson2013]:
+
+RQ & Concept:
+
+How does awareness of advertising co-creator's identity help or hurt persuasion perceived by the audience?
+
+consumer-generated ads: the consumer participated in the ads creation process.
+
+Theory:
+
+An important element of consumer persuasion knowledge is their belief about the persuasion competence of agents or to what extent the agents are perceived to know about effectively influencing buying decisions. When the ads creator is a consumer, the consumer is perceived to be less competent (i.e., do not know how to create a professional ad). The less competent creator leads the audience to perceive the ads as less persuasive. As a consequence, the evaluation of the ads is lower.
+
+Finding:
+
+The authors find that disclosing ads is created by a consumer will lead to negative advertisement and brand evaluations. The effect is mediated through skepticism path (-) and identification path (+). The two paths are moderated by cognitive resources and background information about the ad creator and brand loyalty.
+
+Contribution:
+
+The paper's WoW factor is a) it is hard to guess which path would dominate skepticism or identification. The intuition is the identification, but the result is skepticism. b) prior research only looks at the positive effect of consumer-generated content. However, in this case, it is negative.
+
+### Summary for PKM in online environment
+
+Overall, the consumer is more likely to use the persuasion knowledge if they can access the ulterior motivation as in the context of the advertising (vs. consumer report) and the salespeople negotiation. The online environment should make the accessibility even higher as the consumer tends to be more skeptical of the salespeople when they cannot observe the non-verbal cues.
+
+The online environment can be ambiguous if the consumer has cognitive bandwidth. On the one hand, the consumer doesn't need to pay attention to maintaining the non-verbal cues, which can be resources draining. On the other hand, the consumer may not have the full attention to the interaction as the many background tasks distract the consumer. Therefore, it is hard to predict if the online environment will be more conducive to using user-generated ads. If the bandwidth is low, then the user-generated ads will be more effective. However, when the bandwidth is high or the consumer is involved in processing the information (i.e., they click the ads), then the user-generated ads will be less effective.
+
+When the consumer can access the persuasion knowledge, it seems that the result is often negative compared to when they cannot access it. For example, the foot-in-the-door tactic would be less effective in getting into the door if the consumer senses the salespeople are tricking him/her. However, comparing persuasion vs. no persuasion, the effect on the subject's influence is less clear. As the persuasion attempt becomes less effective when PKM is invoked, yet no persuasion is ineffective in driving the action. For the online environment, if the salespeople persuade using scarcity or non-scarcity tactics, the former is more likely to raise skepticism, yet it is also more effective in driving action in general. Based on the PKM, the persuasion without scarcity tactic that could raise skepticism would be more effective.
+
+

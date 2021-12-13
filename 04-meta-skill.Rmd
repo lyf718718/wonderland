@@ -1,0 +1,138 @@
+---
+bibliography: references.bib
+---
+
+# Research skill
+
+[@booth2016]
+
+## What's research? What's the purpose of writing?
+
+Research is to move along the Dunning Kruger the mount of stupidity. A process to gain true confidence in a subject through extensive reading and writing.
+
+The writing follows a manual format so that the readers can productively anticipate and extract information.
+
+Writing help identity the so what. Researchers may only have an vague domain interest, then turn into a research question on a specific relationship. Finally, the relationship would have a feeling that it is important. For example, study causes of disappearance of large mammals -> cause by killing? -> For reader: Did human live together or destroy the natural.
+
+## How to identify a problem? 
+
+What's good research problem?
+
+1.  a new phenomenon to be differentiated from prior (Julien's online private label vs. in-store private label).
+2.  A better approach to make the result more trustworthy: clarify the construct, better method,
+3.  Resolve contradiction (if top level journal findings differ???): the author needs to read carefully to avoid mis-interpretation
+
+How to find help?
+
+1.  confess newbie
+
+2.  write the process of reading in annotation
+
+## Note taking 
+
+Source quality:
+
+1.  Relevance: a) keywords, intro, summary, and reference --> nothing is too relevant. You can always do better or attack a slightly different angle.
+2.  key author
+3.  key journal
+4.  \# of cites
+
+What to take note:
+
+1.  Reading first: Don't try to critique, instead observe to make sense without pre-judgement
+
+    1.  summary the paper or paragraph to ensure understanding
+
+    2.  don't judge on disaggrement that experts know no truth. It is a working progress.
+
+2.  Reading with intention: a) data, models and argument for relevance. b) overly simplistic or confsusing claims.
+
+3.  Note:
+
+    1.  Key findings from abstract
+
+    2.  Some intro and lit review points: on phenomenon, theory and finding. plus gap.
+
+    3.  citations and comments
+
+    4.  Sorting tags
+
+    5.  Turn in the annotation
+
+4.  Comment:
+
+    1.  Extend the claim (abstract, generalization): combine the claim with new evidence; apply a claim to other similar context (e.g., medical student to engineering).
+
+    2.  Disagreement: new perspective on the same object (e.g., graffiti is vadalism or art) -> what if other papers also disagree ??? as long as my opinion is original.
+
+    3.  Purpose: arguemnet structure, use of data/ stats, secondary evidence to my argument
+
+## PhD dissertation process 
+
+### Topic choice 
+
+1.  Broad reading abstract only
+2.  Search keywords to find enough but not too many papers for the domain
+3.  Form opinion by listening enough abstract and observe typical contributions
+4.  Come up with thesis - e.g., granting concession works better with value affirmation
+5.  Second round review literature for key conversant: abstract to read line by line
+
+### Literature review 
+
+1.  Keyword to Snowball
+2.  Type 1: abstract only to form selection (300+ papers)
+3.  Type 2: conversant - enough depth to come up with your argument
+
+### Coaching 
+
+1.  Coach the plan to be attainable
+2.  Anxiety is part of the process when tackle sth big and uncertain
+
+
+### Lisa's tips on the contribution
+
+PhD timeline - milestone not by the evaluated product but by the process. 
+Y1 - needs to be broad to find an area. Don't dip too deep too soon. How to read. What are important. What are fluffy.  
+Y2 - need to be specialized in a lit. To read through all there. Then you can organize the literature there. (Lit review not just a chore but a training. Lit review is not just to fill prior has done. Good command.)
+Y3 - Theory basis, advanced method, CS degree. 
+Y4 - job market
+
+Potential contribution:
+1. it is OK that sb. has done it. Just differentiate and be happy think alike. 
+2. How to extend the topic. Conceptual paper is good. Empirical paper less useful on future research (already on it = still good idea).
+3. Could I use the theory (logic + WoW; why overconfident could be good; agaist prevailing wisdom here), moderating (unexpected finding) = critical thinking. Raw idea. --> can you show some examples. how to incorporate from your list of ideas. logical based argument = proactive conflict mgmt vs. reactive conflict.
+* event system theory -> reviewer suggest: proactive conflict mgmt. 
+* critical thinking = think different and has an impact. 
+4. phenomenon/ practical vs. theory contribution. WoW factor: add value. multiple trust -> same time, diff place, interact in negative way on DV. (in practice, they have used them.)
+* salesp owned loyalty: ops (new), conceptual (diff outcome, latent finc risk), practical (80% with the salesp)
+* start with phenomenon, construct, theory, what's done before, what's beyond -> Thesis -> check sb. -> why care -> WoW factor.(moderating factor - cross over, from mandane to intriguing, )
+* theory contributon: difference between immigrant and non-immigrant. From the popular press on the uniqueness, phenomenon driven. -> risk taking, see connections differently. (WoW: racism vs. advance economically).
+* usually only 1-2 key WoW. Do this and that. 
+
+Overarching Theory: 
+1. cognitive response -> fit the variable already used. from logic based theory. 
+2. dual agency 
+3. social exchange 
+4. one or two go to theory: power dependence/ social exchange. agency, transcation cost. 
+
+
+Practioner, personal experience. 
+Literature gap is only one source. 
+Lit Done: a) good idea - important, judgement.  b)research sorta done. reciprocity. relational/complex - not fully reciprocate but overtime  vs. episodic/transactional -> JM Jessica hopper/ central construct. 
+Some contribution needs a keen eye. 
+
+Make a contribution - discussion. stream, branch to contribute (window dressing?) key contribution should be intuitive. 
+-> develop depth and breadth in a literature gives perspective on various way to contribute. fit multiple places beyond the core. 
+
+Lisa: power and influence (all over, interdependent) + B2B relationship (general domain) -> come up with a narrower idea.  conceptual idea or domain (end of second year, mapped out!!!)
+summer: committment/ affective, normative, calculative, in depth expert -> not to do the loyalty and committment but will control for them. 
+
+Y1: not latch up too early. Test the wider net. 
+Y2: specialize the literature.
+Y3: actual research.  
+brand equity is not even a construct? too broad. 
+relationship between construct from original to a new context - wow. 
+One theory basis vs. logic training - Mike thinks the logic is the core. to train from multiple papers. 
+
+E-tailing
+
